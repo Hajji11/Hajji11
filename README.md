@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hajji11
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning programming 
+- 👀 I’m interested in programming and AI
+- 🌱 I’m currently learning programming and AI
 - 💞️ I’m looking to collaborate on programming 
 - 📫 How to reach me ...
 
